@@ -1,5 +1,5 @@
 # Leet
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my solutions to LeetCode problems in C++. Solutions are automatically synchronized using LeetHub V2. I use it to track my progress in Data Structures & Algorithms and maintain a consistent coding practice.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
