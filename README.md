@@ -10,11 +10,13 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -87,4 +90,20 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
