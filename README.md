@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarthakkad15/Leet/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
@@ -68,6 +70,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Stack
@@ -106,6 +109,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -118,6 +122,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
