@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarthakkad15/Leet/tree/master/0485-max-consecutive-ones) |
@@ -115,4 +116,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
