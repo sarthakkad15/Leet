@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -112,6 +114,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
