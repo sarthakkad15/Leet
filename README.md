@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sarthakkad15/Leet/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakkad15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -141,4 +143,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
