@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0031-next-permutation](https://github.com/sarthakkad15/Leet/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakkad15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
@@ -149,5 +151,6 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
