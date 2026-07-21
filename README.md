@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0018-4sum](https://github.com/sarthakkad15/Leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sarthakkad15/Leet/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sarthakkad15/Leet/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sarthakkad15/Leet/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
