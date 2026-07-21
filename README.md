@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sarthakkad15/Leet/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthakkad15/Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -149,14 +151,17 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -174,4 +179,12 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
