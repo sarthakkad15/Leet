@@ -209,4 +209,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/sarthakkad15/Leet/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
