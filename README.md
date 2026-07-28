@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sarthakkad15/Leet/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -164,6 +165,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakkad15/Leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sarthakkad15/Leet/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakkad15/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakkad15/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
