@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
@@ -127,6 +128,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -240,4 +242,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0182-duplicate-emails](https://github.com/sarthakkad15/Leet/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sarthakkad15/Leet/tree/master/0183-customers-who-never-order) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
