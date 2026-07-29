@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
