@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakkad15/Leet/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
@@ -117,6 +119,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
