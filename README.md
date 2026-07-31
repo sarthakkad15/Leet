@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthakkad15/Leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sarthakkad15/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakkad15/Leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -258,4 +260,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
