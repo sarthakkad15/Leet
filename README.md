@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/sarthakkad15/Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -139,6 +141,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0088-merge-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
