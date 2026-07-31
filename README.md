@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +112,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
