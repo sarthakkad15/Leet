@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakkad15/Leet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0002-add-two-numbers](https://github.com/sarthakkad15/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarthakkad15/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthakkad15/Leet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
@@ -112,6 +114,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
