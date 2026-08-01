@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sarthakkad15/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
