@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sarthakkad15/Leet/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sarthakkad15/Leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthakkad15/Leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakkad15/Leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -170,6 +172,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0152-maximum-product-subarray](https://github.com/sarthakkad15/Leet/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -292,4 +295,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
