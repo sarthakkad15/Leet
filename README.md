@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/sarthakkad15/Leet/tree/master/3731-find-missing-elements) |
@@ -130,6 +131,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0796-rotate-string](https://github.com/sarthakkad15/Leet/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -252,6 +254,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
