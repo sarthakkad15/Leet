@@ -323,4 +323,16 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sarthakkad15/Leet/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
