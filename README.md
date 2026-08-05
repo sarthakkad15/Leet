@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarthakkad15/Leet/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakkad15/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sarthakkad15/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarthakkad15/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sarthakkad15/Leet/tree/master/0206-reverse-linked-list) |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0005-longest-palindromic-substring](https://github.com/sarthakkad15/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sarthakkad15/Leet/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakkad15/Leet/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakkad15/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sarthakkad15/Leet/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
