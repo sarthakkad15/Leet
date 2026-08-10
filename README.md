@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0008-string-to-integer-atoi](https://github.com/sarthakkad15/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sarthakkad15/Leet/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
@@ -208,6 +209,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthakkad15/Leet/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sarthakkad15/Leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakkad15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,4 +369,12 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
