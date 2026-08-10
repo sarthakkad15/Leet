@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakkad15/Leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/sarthakkad15/Leet/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0206-reverse-linked-list](https://github.com/sarthakkad15/Leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sarthakkad15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/sarthakkad15/Leet/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
