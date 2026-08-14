@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0007-reverse-integer](https://github.com/sarthakkad15/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sarthakkad15/Leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sarthakkad15/Leet/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sarthakkad15/Leet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthakkad15/Leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
@@ -323,6 +324,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarthakkad15/Leet/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/sarthakkad15/Leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
