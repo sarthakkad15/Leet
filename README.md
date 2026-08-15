@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sarthakkad15/Leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sarthakkad15/Leet/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -328,6 +329,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0090-subsets-ii](https://github.com/sarthakkad15/Leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sarthakkad15/Leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
