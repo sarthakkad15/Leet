@@ -225,6 +225,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarthakkad15/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarthakkad15/Leet/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -429,4 +430,12 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sarthakkad15/Leet/tree/master/0037-sudoku-solver) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarthakkad15/Leet/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarthakkad15/Leet/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
