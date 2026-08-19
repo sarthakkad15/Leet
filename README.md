@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
+| [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/sarthakkad15/Leet/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sarthakkad15/Leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -132,6 +134,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthakkad15/Leet/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -204,6 +207,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
+| [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
