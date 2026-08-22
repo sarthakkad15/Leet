@@ -422,14 +422,17 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sarthakkad15/Leet/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -473,4 +476,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0503-next-greater-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
