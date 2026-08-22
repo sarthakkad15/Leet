@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0037-sudoku-solver](https://github.com/sarthakkad15/Leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sarthakkad15/Leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sarthakkad15/Leet/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sarthakkad15/Leet/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
@@ -167,6 +168,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakkad15/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sarthakkad15/Leet/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarthakkad15/Leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthakkad15/Leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0088-merge-sorted-array) |
@@ -243,6 +245,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sarthakkad15/Leet/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakkad15/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sarthakkad15/Leet/tree/master/0234-palindrome-linked-list) |
@@ -256,6 +259,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthakkad15/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sarthakkad15/Leet/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sarthakkad15/Leet/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakkad15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -466,6 +470,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthakkad15/Leet/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
