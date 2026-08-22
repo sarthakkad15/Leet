@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/sarthakkad15/Leet/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sarthakkad15/Leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthakkad15/Leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
@@ -369,6 +370,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0074-search-a-2d-matrix](https://github.com/sarthakkad15/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sarthakkad15/Leet/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakkad15/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
@@ -428,6 +430,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
