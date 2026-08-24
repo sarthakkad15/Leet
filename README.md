@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
@@ -268,6 +269,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0152-maximum-product-subarray](https://github.com/sarthakkad15/Leet/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 ## Memoization
 |  |
@@ -371,6 +373,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0074-search-a-2d-matrix](https://github.com/sarthakkad15/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sarthakkad15/Leet/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakkad15/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
@@ -434,6 +437,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sarthakkad15/Leet/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
