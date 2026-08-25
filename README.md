@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sarthakkad15/Leet/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthakkad15/Leet/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
@@ -378,6 +379,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
@@ -435,6 +437,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0207-course-schedule](https://github.com/sarthakkad15/Leet/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -445,6 +448,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sarthakkad15/Leet/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -499,6 +503,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0130-surrounded-regions](https://github.com/sarthakkad15/Leet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |
