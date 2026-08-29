@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarthakkad15/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sarthakkad15/Leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sarthakkad15/Leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sarthakkad15/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sarthakkad15/Leet/tree/master/0142-linked-list-cycle-ii) |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0022-generate-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/sarthakkad15/Leet/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
@@ -451,6 +453,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sarthakkad15/Leet/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sarthakkad15/Leet/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
@@ -521,4 +524,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sarthakkad15/Leet/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
