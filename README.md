@@ -140,6 +140,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarthakkad15/Leet/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sarthakkad15/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +345,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sarthakkad15/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakkad15/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
