@@ -224,6 +224,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
+| [2810-faulty-keyboard](https://github.com/sarthakkad15/Leet/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthakkad15/Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +347,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0054-spiral-matrix](https://github.com/sarthakkad15/Leet/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sarthakkad15/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2810-faulty-keyboard](https://github.com/sarthakkad15/Leet/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakkad15/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
