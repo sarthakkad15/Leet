@@ -170,6 +170,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarthakkad15/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sarthakkad15/Leet/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthakkad15/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakkad15/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
@@ -359,6 +360,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2810-faulty-keyboard](https://github.com/sarthakkad15/Leet/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakkad15/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/sarthakkad15/Leet/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Divide and Conquer
 |  |
 | ------- |
