@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/sarthakkad15/Leet/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
@@ -245,6 +246,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/sarthakkad15/Leet/tree/master/0605-can-place-flowers) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
