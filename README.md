@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakkad15/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakkad15/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
