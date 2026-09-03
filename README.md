@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3731-find-missing-elements](https://github.com/sarthakkad15/Leet/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthakkad15/Leet/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sarthakkad15/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarthakkad15/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthakkad15/Leet/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sarthakkad15/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Recursion
 |  |
 | ------- |
