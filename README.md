@@ -240,6 +240,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkad15/Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
+| [3931-check-adjacent-digit-differences](https://github.com/sarthakkad15/Leet/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
