@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakkad15/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +113,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -164,6 +166,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sarthakkad15/Leet/tree/master/1922-count-good-numbers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sarthakkad15/Leet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -384,6 +387,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
