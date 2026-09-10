@@ -494,6 +494,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakkad15/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -575,4 +576,12 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakkad15/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakkad15/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
