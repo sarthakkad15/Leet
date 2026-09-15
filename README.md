@@ -426,6 +426,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sarthakkad15/Leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sarthakkad15/Leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sarthakkad15/Leet/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Matrix
 |  |
 | ------- |
