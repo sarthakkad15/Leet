@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool findSubarrays(vector<int>& nums) {
-        set<long long> s;
+        set<int> s;
         s.insert(nums[0]+nums[1]);
         int n=nums.size();
-        long long x;
+        int x;
         for(int i=2;i<n;i++)
         {
             x=nums[i]+nums[i-1];
