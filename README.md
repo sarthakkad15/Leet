@@ -257,6 +257,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarthakkad15/Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthakkad15/Leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 | [3931-check-adjacent-digit-differences](https://github.com/sarthakkad15/Leet/tree/master/3931-check-adjacent-digit-differences) |
@@ -389,6 +390,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2181-merge-nodes-in-between-zeros](https://github.com/sarthakkad15/Leet/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2810-faulty-keyboard](https://github.com/sarthakkad15/Leet/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakkad15/Leet/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthakkad15/Leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/sarthakkad15/Leet/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Divide and Conquer
