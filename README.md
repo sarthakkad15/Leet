@@ -469,6 +469,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0183-customers-who-never-order](https://github.com/sarthakkad15/Leet/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/sarthakkad15/Leet/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/sarthakkad15/Leet/tree/master/0577-employee-bonus) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sarthakkad15/Leet/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/sarthakkad15/Leet/tree/master/1407-top-travellers) |
 ## Counting Sort
 |  |
