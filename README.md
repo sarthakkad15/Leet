@@ -246,6 +246,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sarthakkad15/Leet/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sarthakkad15/Leet/tree/master/0541-reverse-string-ii) |
@@ -536,6 +537,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0130-surrounded-regions](https://github.com/sarthakkad15/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sarthakkad15/Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sarthakkad15/Leet/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
@@ -561,6 +563,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0090-subsets-ii](https://github.com/sarthakkad15/Leet/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sarthakkad15/Leet/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
