@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +124,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -227,6 +229,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -367,6 +370,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1539-kth-missing-positive-number](https://github.com/sarthakkad15/Leet/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakkad15/Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
