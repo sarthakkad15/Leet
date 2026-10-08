@@ -572,6 +572,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0032-longest-valid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sarthakkad15/Leet/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkad15/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
