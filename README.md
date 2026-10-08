@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -125,6 +126,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -303,6 +305,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakkad15/Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
