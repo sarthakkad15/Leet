@@ -262,6 +262,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkad15/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakkad15/Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -286,6 +287,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkad15/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakkad15/Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
@@ -329,6 +331,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0678-valid-parenthesis-string](https://github.com/sarthakkad15/Leet/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkad15/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakkad15/Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthakkad15/Leet/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -584,6 +587,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0678-valid-parenthesis-string](https://github.com/sarthakkad15/Leet/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sarthakkad15/Leet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sarthakkad15/Leet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Algorithm X
 |  |
 | ------- |
