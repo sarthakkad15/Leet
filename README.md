@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakkad15/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sarthakkad15/Leet/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
@@ -292,6 +293,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakkad15/Leet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -311,6 +313,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -380,6 +383,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1539-kth-missing-positive-number](https://github.com/sarthakkad15/Leet/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sarthakkad15/Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -515,6 +519,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
