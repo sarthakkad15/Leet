@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sarthakkad15/Leet/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthakkad15/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakkad15/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakkad15/Leet/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sarthakkad15/Leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthakkad15/Leet/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -201,6 +202,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3871-count-commas-in-range-ii](https://github.com/sarthakkad15/Leet/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarthakkad15/Leet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarthakkad15/Leet/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakkad15/Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -331,6 +333,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthakkad15/Leet/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sarthakkad15/Leet/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sarthakkad15/Leet/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakkad15/Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +429,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthakkad15/Leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sarthakkad15/Leet/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/sarthakkad15/Leet/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
