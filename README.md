@@ -286,6 +286,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3498-reverse-degree-of-a-string](https://github.com/sarthakkad15/Leet/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sarthakkad15/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sarthakkad15/Leet/tree/master/3612-process-string-with-special-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sarthakkad15/Leet/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/sarthakkad15/Leet/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
