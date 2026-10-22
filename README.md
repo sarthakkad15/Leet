@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3886-sum-of-sortable-integers](https://github.com/sarthakkad15/Leet/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/sarthakkad15/Leet/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sarthakkad15/Leet/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/sarthakkad15/Leet/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
