@@ -186,6 +186,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/sarthakkad15/Leet/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/sarthakkad15/Leet/tree/master/0836-rectangle-overlap) |
