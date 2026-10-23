@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0216-combination-sum-iii](https://github.com/sarthakkad15/Leet/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakkad15/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sarthakkad15/Leet/tree/master/0485-max-consecutive-ones) |
@@ -124,6 +125,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -185,6 +187,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0050-powx-n](https://github.com/sarthakkad15/Leet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/sarthakkad15/Leet/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
@@ -322,6 +325,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0169-majority-element](https://github.com/sarthakkad15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarthakkad15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -389,6 +393,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarthakkad15/Leet/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakkad15/Leet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
@@ -484,6 +489,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0090-subsets-ii](https://github.com/sarthakkad15/Leet/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sarthakkad15/Leet/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakkad15/Leet/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sarthakkad15/Leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sarthakkad15/Leet/tree/master/3644-maximum-k-to-sort-a-permutation) |
