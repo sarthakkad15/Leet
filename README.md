@@ -199,6 +199,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1822-sign-of-the-product-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sarthakkad15/Leet/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/sarthakkad15/Leet/tree/master/2409-count-days-spent-together) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sarthakkad15/Leet/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -283,6 +284,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarthakkad15/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sarthakkad15/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sarthakkad15/Leet/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/sarthakkad15/Leet/tree/master/2409-count-days-spent-together) |
 | [2810-faulty-keyboard](https://github.com/sarthakkad15/Leet/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthakkad15/Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sarthakkad15/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
