@@ -189,6 +189,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0029-divide-two-integers](https://github.com/sarthakkad15/Leet/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sarthakkad15/Leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthakkad15/Leet/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sarthakkad15/Leet/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sarthakkad15/Leet/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
@@ -395,6 +396,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthakkad15/Leet/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sarthakkad15/Leet/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakkad15/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakkad15/Leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthakkad15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -690,4 +692,8 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sarthakkad15/Leet/tree/master/0836-rectangle-overlap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sarthakkad15/Leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
