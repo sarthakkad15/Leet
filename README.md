@@ -98,6 +98,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [3483-unique-3-digit-even-numbers](https://github.com/sarthakkad15/Leet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarthakkad15/Leet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sarthakkad15/Leet/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakkad15/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sarthakkad15/Leet/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sarthakkad15/Leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarthakkad15/Leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -522,6 +523,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sarthakkad15/Leet/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/sarthakkad15/Leet/tree/master/1901-find-a-peak-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakkad15/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -590,6 +592,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1254-number-of-closed-islands](https://github.com/sarthakkad15/Leet/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakkad15/Leet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakkad15/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -605,6 +608,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sarthakkad15/Leet/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/sarthakkad15/Leet/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakkad15/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -668,6 +672,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0547-number-of-provinces](https://github.com/sarthakkad15/Leet/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sarthakkad15/Leet/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sarthakkad15/Leet/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakkad15/Leet/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
