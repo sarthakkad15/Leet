@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarthakkad15/Leet/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthakkad15/Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/sarthakkad15/Leet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/sarthakkad15/Leet/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/sarthakkad15/Leet/tree/master/0496-next-greater-element-i) |
@@ -195,6 +196,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0231-power-of-two](https://github.com/sarthakkad15/Leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sarthakkad15/Leet/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/sarthakkad15/Leet/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
