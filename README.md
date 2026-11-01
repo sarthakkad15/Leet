@@ -275,6 +275,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0115-distinct-subsequences](https://github.com/sarthakkad15/Leet/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sarthakkad15/Leet/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sarthakkad15/Leet/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/sarthakkad15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/sarthakkad15/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sarthakkad15/Leet/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
@@ -381,6 +382,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0118-pascals-triangle](https://github.com/sarthakkad15/Leet/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarthakkad15/Leet/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakkad15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sarthakkad15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sarthakkad15/Leet/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sarthakkad15/Leet/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
@@ -628,6 +630,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0051-n-queens](https://github.com/sarthakkad15/Leet/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sarthakkad15/Leet/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sarthakkad15/Leet/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sarthakkad15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sarthakkad15/Leet/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/sarthakkad15/Leet/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/sarthakkad15/Leet/tree/master/0301-remove-invalid-parentheses) |
