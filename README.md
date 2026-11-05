@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0542-01-matrix](https://github.com/sarthakkad15/Leet/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakkad15/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sarthakkad15/Leet/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakkad15/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sarthakkad15/Leet/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/sarthakkad15/Leet/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
@@ -203,6 +204,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sarthakkad15/Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/sarthakkad15/Leet/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarthakkad15/Leet/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakkad15/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/sarthakkad15/Leet/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/sarthakkad15/Leet/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sarthakkad15/Leet/tree/master/0877-stone-game) |
@@ -346,6 +348,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0268-missing-number](https://github.com/sarthakkad15/Leet/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakkad15/Leet/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sarthakkad15/Leet/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarthakkad15/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sarthakkad15/Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sarthakkad15/Leet/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthakkad15/Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
