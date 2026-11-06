@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
+| [2747-count-zero-request-servers](https://github.com/sarthakkad15/Leet/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sarthakkad15/Leet/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -148,6 +149,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [2395-find-subarrays-with-equal-sum](https://github.com/sarthakkad15/Leet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sarthakkad15/Leet/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/sarthakkad15/Leet/tree/master/2540-minimum-common-value) |
+| [2747-count-zero-request-servers](https://github.com/sarthakkad15/Leet/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarthakkad15/Leet/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -358,6 +360,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sarthakkad15/Leet/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sarthakkad15/Leet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sarthakkad15/Leet/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/sarthakkad15/Leet/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sarthakkad15/Leet/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sarthakkad15/Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sarthakkad15/Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -446,6 +449,7 @@ This repository contains my solutions to LeetCode problems in C++. Solutions are
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakkad15/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarthakkad15/Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sarthakkad15/Leet/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/sarthakkad15/Leet/tree/master/2747-count-zero-request-servers) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/sarthakkad15/Leet/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthakkad15/Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarthakkad15/Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
